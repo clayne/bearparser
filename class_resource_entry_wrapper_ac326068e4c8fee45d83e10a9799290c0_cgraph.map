@@ -1,0 +1,14 @@
+<map id="ResourceEntryWrapper::wrap" name="ResourceEntryWrapper::wrap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,159,111"/>
+<area shape="rect" id="Node000002" href="$class_resource_entry_wrapper.html#a8a963b1e9d2a70fb23bcbc057ad87208" title=" " alt="" coords="207,5,360,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,68,203,49,205,54,148,73"/>
+<area shape="rect" id="Node000003" href="$class_resource_entry_wrapper.html#a7578640e456565b30a017b91a18e198e" title=" " alt="" coords="207,71,360,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,88,191,88,191,94,159,94"/>
+<area shape="rect" id="Node000006" href="$class_resource_entry_wrapper.html#a9624f3dc917bdc36fc2e10c45b139ce2" title=" " alt="" coords="419,133,572,174"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,109,207,120,309,135,404,145,403,150,308,141,206,126,156,115"/>
+<area shape="rect" id="Node000004" href="$class_resource_entry_wrapper.html#adc5168fb598c839544eae239a2ac13e2" title=" " alt="" coords="408,68,583,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,87,392,87,392,92,360,93"/>
+<area shape="rect" id="Node000005" href="$class_resource_entry_wrapper.html#a7b9e82ed92670df405c16b75dd868046" title=" " alt="" coords="631,101,785,142"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="584,99,616,105,616,110,583,105"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="572,139,615,133,616,138,573,145"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ResourceEntryWrapper::getName" name="ResourceEntryWrapper::getName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,159,79"/>
+<area shape="rect" id="Node000002" href="$class_resource_entry_wrapper.html#a1fc06565c20b926968ea4320afd6d577" title=" " alt="" coords="207,5,360,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,44,191,38,192,43,159,49"/>
+<area shape="rect" id="Node000005" href="$class_resource_entry_wrapper.html#aaf62191e5615d7504c94742edaacb56a" title=" " alt="" coords="207,71,360,111"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="159,69,192,74,191,79,159,74"/>
+<area shape="rect" id="Node000003" href="$class_resource_entry_wrapper.html#a7b9e82ed92670df405c16b75dd868046" title=" " alt="" coords="609,7,763,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,21,408,20,561,20,594,21,594,26,561,26,408,26,360,26"/>
+<area shape="rect" id="Node000004" href="$class_resource_entry_wrapper.html#ab64fbc478f6e70835f3eba2dd59a4a7f" title=" " alt="" coords="408,35,561,75"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,34,393,39,392,44,360,39"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="561,42,594,37,594,42,562,47"/>
+</map>
